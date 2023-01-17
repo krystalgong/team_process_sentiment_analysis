@@ -43,7 +43,7 @@ Next, we would like you to consider how you would evaluate your method. How do y
 ## 3. Overall reflection
 3a. How much time did it take you to complete this task? (Please be honest; we are looking for feedback to make sure the task is scoped appropriately, as this is one of the first times we’re using this task.)
 
-> ~15 hours
+> ~10 hours
 
 3b. Finally, provide an overall reflection of your experience. How did you approach this task? What challenge(s) did you encounter? If you had more time, what are additional extensions, improvements, or tests that you would want to implement?
 
